@@ -1,4 +1,4 @@
-### dpigs utility : ...(provided by debian-goodies package)
+### dpigs utility : ...(provided by debian-goodies package) -  Show which installed packages occupy the most space
   install debian goodies :
 `
 $ sudo apt install debian-goodies
