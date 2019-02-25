@@ -12,3 +12,9 @@
     * VPN -- 
     
 * https://protonvpn.com/support/linux-vpn-setup/
+  
+  # IRC
+  
+  ``
+  sudo apt install hexchat
+  ``
