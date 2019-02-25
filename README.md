@@ -11,4 +11,4 @@
       --------- these connections are easy to set up so just get it done
     * VPN -- 
     
-    https://protonvpn.com/support/linux-vpn-setup/
+* https://protonvpn.com/support/linux-vpn-setup/
