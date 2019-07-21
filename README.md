@@ -4,6 +4,10 @@
 #### adding-removing packages etc ....!
 
   ## Setting a linux system up from a minimal install
+
+  # Rosetta Stone
+  *http://bhami.com/rosetta.html
+  
   # Networking Resources :
     * WiFi 
     * Ethernet
