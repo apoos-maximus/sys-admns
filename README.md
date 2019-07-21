@@ -6,13 +6,14 @@
   ## Setting a linux system up from a minimal install
 
   # Rosetta Stone
-  *http://bhami.com/rosetta.html
+  http://bhami.com/rosetta.html
   
   # Other Resources
-  *https://www.cpan.org/
-  *http://freshmeat.sourceforge.net/
-  *https://www.kernel.org/
-  *https://www.linux.org/       --forum
+  * https://www.cpan.org/
+  * http://freshmeat.sourceforge.net/
+  * https://www.kernel.org/
+  * https://www.linux.org/       --forum
+  * https://www.linux.com/
 
   # Networking Resources :
     * WiFi 
@@ -21,13 +22,13 @@
       --------- these connections are easy to set up so just get it done
     * VPN -- 
     
-* https://protonvpn.com/support/linux-vpn-setup/
+https://protonvpn.com/support/linux-vpn-setup/
 
 
 
 # missing ping !
 
-*https://stackoverflow.com/questions/39901311/docker-ubuntu-bash-ping-command-not-found
+https://stackoverflow.com/questions/39901311/docker-ubuntu-bash-ping-command-not-found
   
   # IRC
   
