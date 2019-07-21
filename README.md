@@ -9,8 +9,11 @@
   *http://bhami.com/rosetta.html
   
   # Other Resources
-  *cpan.org
-  
+  *https://www.cpan.org/
+  *http://freshmeat.sourceforge.net/
+  *https://www.kernel.org/
+  *https://www.linux.org/       --forum
+
   # Networking Resources :
     * WiFi 
     * Ethernet
