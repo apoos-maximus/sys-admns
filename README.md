@@ -8,6 +8,9 @@
   # Rosetta Stone
   *http://bhami.com/rosetta.html
   
+  # Other Resources
+  *cpan.org
+  
   # Networking Resources :
     * WiFi 
     * Ethernet
