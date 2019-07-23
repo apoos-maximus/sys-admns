@@ -22,7 +22,8 @@
   * http://serverfiles.com/
   * https://slashdot.org/       -- tech news
   * http://ugu.com/sui/ugu/warp.ugu  --nice place !
-
+  * https://wiki.bash-hackers.org/syntax/pe
+    * https://wiki.bash-hackers.org/
   # Networking Resources :
     * WiFi 
     * Ethernet
